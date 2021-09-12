@@ -1,0 +1,43 @@
+.maincontainer4{
+    width: 100%;
+    background-image: linear-gradient(300deg, #030f46, #34ade6);
+    padding: 0 0 50px 0;
+    margin: 0 0 0 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 93vh;
+}
+
+.maincontainer4 h1{
+    text-align: center;
+    padding-top: 5vh;
+    color: white;
+}
+
+.form-cont {
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.text-area {
+    padding-top: 40px;
+    padding-left: 190px;
+}
+
+.search-wrapper {
+    padding-top: 40px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    width: 30rem;
+}
+
+.table1 {
+    padding-top: 40px;
+}
+
+/* .fields {
+    width: 10rem;
+} */

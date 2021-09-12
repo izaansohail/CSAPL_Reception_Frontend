@@ -1,0 +1,59 @@
+.maincontainer3{
+    width: 100%;
+    background-image: linear-gradient(300deg, #030f46, #34ade6);
+    padding: 0 0 50px 0;
+    margin: 0 0 0 0;
+}
+
+.container{
+    border:solid white;
+    border-width: 2px;
+    padding: 6px;
+    display: block;
+    width: 55rem;
+}
+
+.text-center{
+    color: white;
+    font-size: 3rem;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.form-image{
+    float: right;
+    padding-left: 250px; 
+    padding-right: 110px;
+    padding-top: 20px;
+}
+
+.mb-3{
+    padding-left: 7rem; 
+    /* padding-right: ; */
+    margin: 0 0 0 0;
+}
+
+.form-image-last{
+    width: 16rem; 
+    height: 10rem; 
+    overflow: hidden; 
+    display: flex
+}
+
+.form-label{
+    color: white;
+}
+
+.form-control{
+    border-radius: 15px 15px;
+    width: 40rem;
+}
+
+.incomplete{
+    position: absolute;
+    color: red;
+    display: flex;
+    padding-left: 475px;
+    padding-top: 70px;
+}
+
